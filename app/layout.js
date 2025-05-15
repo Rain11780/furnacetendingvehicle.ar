@@ -12,39 +12,39 @@ export const runtime = "edge";
 
 export const metadata = {
 	title: {
-		default: "SOCMA Furnace Tending Vehicles|Precision Solutions for Aluminum Smelters",
-		template: "SOCMA Furnace Tending Vehicles"	
+	  default: "مركبات صيانة الأفران من SOCMA | حلول دقيقة لمصاهر الألمنيوم",
+	  template: "مركبات صيانة الأفران من SOCMA"
 	},
-	description: "Discover SOCMA's furnace tending vehicles, slag pot cars, and charging cars. High-precision, safe, and electric solutions for aluminum industry equipment needs.",
+	description: "اكتشف مركبات صيانة الأفران، وعربات أواني الخبث، وعربات الشحن من SOCMA. حلول كهربائية عالية الدقة، آمنة، ومخصصة لتلبية احتياجات معدات صناعة الألمنيوم.",
 	openGraph: {
-		title: "SOCMA Side Loader Forklifts | Engineered for Precision Material Handling",		
-		description: "Discover SOCMA's furnace tending vehicles, slag pot cars, and charging cars. High-precision, safe, and electric solutions for aluminum industry equipment needs.",
-		images: [
-			{
-				url: "/opengraph-image.png",
-				width: 1200,
-				height: 630,
-				alt: "SOCMA Furnace Tending Vehicles"
-			}
-		],
-		locale: "en_US",
-		type: "website"
+	  title: "رافعات شوكية جانبية من SOCMA | مصممة لمعالجة دقيقة للمواد",
+	  description: "اكتشف مركبات صيانة الأفران، وعربات أواني الخبث، وعربات الشحن من SOCMA. حلول كهربائية عالية الدقة، آمنة، ومخصصة لتلبية احتياجات معدات صناعة الألمنيوم.",
+	  images: [
+		{
+		  url: "/opengraph-image.png",
+		  width: 1200,
+		  height: 630,
+		  alt: "مركبات صيانة الأفران من SOCMA"
+		}
+	  ],
+	  locale: "ar_AR",
+	  type: "website"
 	},
 	twitter: {
-		card: "summary_large_image",
-		title: {
-			default: "SOCMA Furnace Tending Vehicles",
-			template: "SOCMA Furnace Tending Vehicles"
-		},
-		description: "Discover SOCMA's furnace tending vehicles, slag pot cars, and charging cars. High-precision, safe, and electric solutions for aluminum industry equipment needs.",
-		images: [
-			{
-				url: "/opengraph-image.png",
-				alt: "SOCMA Furnace Tending Vehicles"
-			}
-		]
+	  card: "summary_large_image",
+	  title: {
+		default: "مركبات صيانة الأفران من SOCMA",
+		template: "مركبات صيانة الأفران من SOCMA"
+	  },
+	  description: "اكتشف مركبات صيانة الأفران، وعربات أواني الخبث، وعربات الشحن من SOCMA. حلول كهربائية عالية الدقة، آمنة، ومخصصة لتلبية احتياجات معدات صناعة الألمنيوم.",
+	  images: [
+		{
+		  url: "/opengraph-image.png",
+		  alt: "مركبات صيانة الأفران من SOCMA"
+		}
+	  ]
 	}
-};
+  };
 
 export default function RootLayout({ children }) {
 	return (

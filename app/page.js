@@ -8,9 +8,9 @@ import FAQ from "@/components/features/faq";
 
 // Metadata
 export const metadata = {
-	title: "SOCMA Furnace Tending Vehicles|Precision Solutions for Aluminum Smelters",	
-	description: "Discover SOCMA's furnace tending vehicles, slag pot cars, and charging cars. High-precision, safe, and electric solutions for aluminum industry equipment needs."
-};
+	title: "مركبات صيانة الأفران من SOCMA | حلول دقيقة لمصاهر الألمنيوم",
+	description: "اكتشف مركبات صيانة الأفران من SOCMA، عربات أوعية الخبث، وعربات الشحن. حلول دقيقة وآمنة وكهربائية لاحتياجات معدات صناعة الألمنيوم."
+  };
 
 // Structured Data
 const jsonLd = {
