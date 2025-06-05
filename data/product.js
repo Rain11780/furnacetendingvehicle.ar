@@ -1,4 +1,4 @@
-[
+export const product = [
 	{
 	  "title": "مركبة صيانة الأفران SOCMA HNBZ8512 لمصانع الصلب والمسابك",
 	  "focus": "SOCMA HNBZ8512",
