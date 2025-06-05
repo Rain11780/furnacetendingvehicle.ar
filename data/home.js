@@ -5,6 +5,8 @@ export const navbar = {
 	},
 	menu: [
 	  { label: "الصفحة الرئيسية", href: "/" },
+	  { label: "مجموعة", href: "/collection" },
+{ label: "منتج", href: "/product" },
 	  { label: "معلومات عنا", href: "/about" },
 	  { label: "اتصل بنا", href: "/contact" }
 	],
